@@ -1,5 +1,3 @@
-# OIBSIP TASK - 2
-# BY SaloniGoyal
 # unemployment analysis with python
 
 #importing libraries
