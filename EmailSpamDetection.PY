@@ -1,5 +1,3 @@
-# OIBSIP TASK - 3
-# BY SaloniGoyal
 # email spam detection with machine learning
 
 import numpy as np
